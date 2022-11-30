@@ -1,0 +1,23 @@
+{
+  "name": "@npm-voca/voca-sync",
+  "version": "1.0.0",
+  "description": "VoCA synchronization tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github-voca/voca-sync.git"
+  },
+  "keywords": [
+    "voca",
+    "sync"
+  ],
+  "author": "VoCA <info@voca.at>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/github-voca/voca-sync/issues"
+  },
+  "homepage": "https://github.com/github-voca/voca-sync#readme"
+}
